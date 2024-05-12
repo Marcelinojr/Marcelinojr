@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Marcelinojr
-- 👀 I’m interested in learning modern and effectives ways to program
-- 🌱 I’m currently learning Java , Kotlin , Html , Css , Flutter & Python
-- 💞️ I’m looking to collaborate on any projects , if you have any projects , just hit me up
-- 📫 How to reach me mnobre955@gmail.com
+# Hi there! 👋 I'm Marcelino Junior!
+
+
+
+## Skills
+
+- Languages: PhP, Java, Javascript, Python.
+- Tools & Technologies: React, React Native.
+- Other skills: Automation(Sharepoint Online, Sharepoint 2019, Power Automate, Power BI).
+
+
+## Let's Connect
 
 <!---
 Marcelinojr/Marcelinojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
