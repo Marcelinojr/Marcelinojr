@@ -15,8 +15,6 @@ Atualmente estou:
 - 🔭 Trabalhando em soluções que automatizam e simplificam tarefas do dia a dia
 - 🌱 Aprendendo novas abordagens de desenvolvimento e boas práticas
 - 🤝 Aberto a colaborações em projetos inovadores
-- 📫 Entre em contato: **[seu e-mail ou LinkedIn]**
-
 ---
 
 ## 🧰 Tecnologias e Ferramentas
