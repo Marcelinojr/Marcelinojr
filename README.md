@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor Web com foco em **resolver problemas reais** e **melhorar a vida das pessoas** por meio da tecnologia.  
 🔧 Especializado em **Desenvolvimento Web** e **automação de processos manuais**.  
-💼 Com **2 anos de experiência** no mercado de trabalho, atuando com eficiência, agilidade e propósito.  
+💼 Com mais **1 ano de experiência** no mercado de trabalho, atuando com eficiência, agilidade e propósito.  
 ⚡ Também trabalho com **tecnologias low-code**, otimizando soluções e entregando resultados rápidos.
 
 ---
@@ -47,8 +47,8 @@ Atualmente estou:
 
 ## 📊 Estatísticas do GitHub
 
-![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelinojr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelinojr&layout=compact&theme=radical)
 
 ---
 
@@ -61,8 +61,8 @@ Atualmente estou:
 
 ## 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelinonobrejunior/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnobre955@gmail.com)
 
 ---
 
