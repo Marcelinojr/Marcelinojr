@@ -24,7 +24,7 @@
 
 </div>
 
-
+<!-- 
 #
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelinojr&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&color=6ed2b6&point=6ed2b6)
 
-</div>
+</div> -->
 
 
 #
