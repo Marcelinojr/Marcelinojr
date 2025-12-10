@@ -1,60 +1,40 @@
-# 👋 Olá, eu sou Marcelino Nobre Junior!
+<div align="center">
 
-🎯 Desenvolvedor Web com foco em **resolver problemas reais** e **melhorar a vida das pessoas** por meio da tecnologia.  
-🔧 Especializado em **Desenvolvimento Web** e **automação de processos manuais**.  
-💼 Com mais **1 ano de experiência** no mercado de trabalho, atuando com eficiência, agilidade e propósito.  
-⚡ Também trabalho com **tecnologias low-code**, otimizando soluções e entregando resultados rápidos.
+  <img height="350em" src="./.github/assets/banner.png"/>
+</div>
 
----
+#
+<h3 align="center">
+  FullStack Developer • IT Automation Consultant
+</h3>
 
-## 🚀 Em constante evolução
+#
 
-> "Tecnologia é uma ponte entre ideias e transformação."
+<div><br />
+<div align="center">  
+<p><strong>About me</strong></p>
 
-Atualmente estou:
-- 🔭 Trabalhando em soluções que automatizam e simplificam tarefas do dia a dia
-- 🌱 Aprendendo novas abordagens de desenvolvimento e boas práticas
-- 🤝 Aberto a colaborações em projetos inovadores
----
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Marcelino Junior and I am a FullStack Developer. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .NET with React and NodeJs with React.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 
-## 🧰 Tecnologias e Ferramentas
+## 
+<h3><strong>My Stack</strong></h3>
 
-### 💻 Desenvolvimento Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,tailwind,postgres,aws,azure,git,github,docker&theme=dark" />
 
-### ⚙️ Tecnologias Low-Code
+#
 
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=Microsoft-Power-Automate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![InfoPath](https://img.shields.io/badge/InfoPath%202013-8032A0?style=for-the-badge&logo=microsoft&logoColor=white)
-![SharePoint On-Premises](https://img.shields.io/badge/SharePoint%20On--Premises-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Creatio](https://img.shields.io/badge/Creatio%20by%20Terrasoft-FE5000?style=for-the-badge&logo=creatio&logoColor=white)
-![SharePoint Workflow 2010](https://img.shields.io/badge/Workflow%202010-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+  <p><strong>Contact Me</strong></p>
 
----
+<div align="left">
 
-## 📊 Estatísticas do GitHub
+<a href="mailto:mnobre955@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF"  height="32" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/marcelinonobrejunior/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF"  height="32" alt="LinkedIn"></a>
+</div>
 
-![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelinojr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelinojr&layout=compact&theme=radical)
-
----
-
-## 🌐 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelinonobrejunior/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnobre955@gmail.com)
-
----
-
-🧡 _"Usar a tecnologia com propósito é meu compromisso com o futuro."_
+#
